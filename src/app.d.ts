@@ -6,6 +6,7 @@ declare namespace App {
 	// interface Locals {}
 	// interface Platform {}
 	// interface Session {}
+<<<<<<< HEAD
 
 }
 
@@ -16,3 +17,7 @@ type ExperienceItem = {
   date: string,
   items: Array<string>
 }
+=======
+	// interface Stuff {}
+}
+>>>>>>> main
