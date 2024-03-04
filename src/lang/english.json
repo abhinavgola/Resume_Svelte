@@ -1,0 +1,76 @@
+{
+	"header": {
+		"navBar":[
+			"Home",
+			"about",
+			"experience"
+		],
+		"title":"Abhinav Gola",
+		"description": "Final year student at ESSEC Business School, eager to transition into roles within Investment Banking, M&A, Asset, or Wealth Management"
+	},
+	"about":{
+		"title":"About me",
+		"description": "I am a final year business student at ESSEC Business School, Paris, currently leveraging my analytical prowess as a Credit Risk Analyst in the Private Banking division at Société Générale. My professional journey includes a solid foundation in programming languages and significant experience in the dynamic fields of Data and AI.",		
+		"contactTitle": "Contact details",
+		"contactDescription": [
+			{
+				"value":"Abhinav Gola",
+				"icon":"far fa-user"
+			},
+			{
+				"value":"Cergy, Ile-de-France",
+				"icon":"fas fa-map-pin"
+			},
+			{
+				"value":"b00791840@essec.edu",
+				"icon":"fas fa-at"
+			},
+			{
+				"value":"github.com/abhinavgola",
+				"icon": "fab fa-github"
+			},
+			{
+				"value":"+33 0745453250",
+				"icon":"fas fa-phone-alt"
+			}
+		]
+	},
+	"resume":{
+		"education":{
+			"title":"Education",
+			"unrc":{
+				"title": "ESSEC Business School, Cergy",
+				"header":"Master in Management",
+				"status": "Currently ongoing",
+				"description": "I finished first year as a regular (condition) student in the subjects of Logic, Introduction to Algorithms and Introduction to Algebra. (3/4). I still opted for dropping out because it wasn't fully what I expected it to be."
+			},
+			"itec":{
+				"title": "National Institute of Technological, Delhi",
+				"header": "Bachelors in Electrical Engineering",
+				"status": "Graduated",
+				"description": "I enjoy this academic experience a lot more. I'm also part of the iTec Lab Team, an institute initiative to insert students into the professional world. "
+			}
+		},
+		"work":{
+			"title":"Work",
+			"escuchaActiva":{
+				"title":"Credit Risk Analyst Apprentice",
+				"header":"Front-end developer",
+				"status":"Completed",
+				"description":"As mentioned above, I worked as a member of the iTec Lab Team in the front-end development of a webinar platform. I believe I successfully achieved the mock up design in an optimal and fully responsive way. I had no inconvenients that I couldn't resolve by my own means."
+			}
+		},
+		"skills":{
+			"title":"Skills",
+			"description":"These are some of the technologies/frameworks that I work with. The percentages aren't fully representative."
+		}	
+	},
+	"footer":{
+		"credits":{
+			"made":"Developed by",
+			"by":"Abhinav Gola"
+		},
+		"copyright":"© 2024"
+	}
+
+}
